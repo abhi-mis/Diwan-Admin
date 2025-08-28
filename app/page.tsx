@@ -132,7 +132,7 @@ export default function ContactsPage() {
           <Card className="text-center py-12">
             <CardContent>
               <div className="text-gray-500">
-                <User className="h-12 w-12 mx-auto mb-4 opacity-50" />
+                
                 <h3 className="text-lg font-medium mb-2">No contacts found</h3>
                 <p className="text-sm">
                   Try adjusting your search terms or clear the search to see all contacts.
